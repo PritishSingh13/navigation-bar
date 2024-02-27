@@ -1,2 +1,2 @@
-# navigation-bar
-This is my first demo navigation bar created using css...
+# first repo
+This is my first repo 
